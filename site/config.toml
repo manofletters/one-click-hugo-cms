@@ -143,17 +143,17 @@ tags = 1 #SIDEBAR TAG TAXONOMY WIDGET: [ 1 - yes, 0 - no ]
 [params.portfolio]
 homeNumOfItems = 12
 [[params.portfolio.filters]]
-name = "Print"
-slug = "print"
+name = "UI UX Design"
+slug = "ui-ux-design"
 [[params.portfolio.filters]]
 name = "Photography"
 slug = "photography"
 [[params.portfolio.filters]]
+name = "Development"
+slug = "development"
+[[params.portfolio.filters]]
 name = "Branding"
 slug = "branding"
-[[params.portfolio.filters]]
-name = "Art"
-slug = "art"
 
 # Sitemap Settings
 [sitemap]
