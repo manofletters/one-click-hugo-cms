@@ -3,18 +3,18 @@
   YARN_VERSION = "1.22.17"
 
 [build]
-  command = "yarn build"
+  command = "yarn build:hugo"
   publish = "dist"
 
 [context.deploy-preview]
-  command = "yarn build:preview"
+  command = "yarn build:hugo:preview"
 
 [dev]
   framework = "hugo"
   targetPort = 3000
 
-[[plugins]]
-  package = "netlify-plugin-cypress"
+#[[plugins]]
+#  package = "netlify-plugin-cypress"
 
-  [plugins.inputs]
-    record = true
+#  [plugins.inputs]
+#    record = true
