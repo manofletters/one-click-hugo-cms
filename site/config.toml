@@ -1,6 +1,6 @@
 # General Settings
 title = "Aster - Creative Agency Portfolio Hugo Theme"
-baseURL = "https://bslthemes.com/" #YOUR SITE URL
+baseURL = "https://lustrous-tiramisu-74dc40.netlify.app/" #YOUR SITE URL
 languageCode = "en-us"
 theme = "aster"
 resourceDir = "resources"
