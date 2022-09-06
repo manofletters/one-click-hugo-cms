@@ -1,2 +1,3 @@
 languageCode = "en-us"
+theme = "aster"
 title = "My New Netlify Victor Hugo Site"
